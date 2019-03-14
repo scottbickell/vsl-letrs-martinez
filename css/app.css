@@ -380,6 +380,16 @@ h2 {
   line-height: 30px;
   color: #c2151c; }
 
+.red-body {
+  background: #c2151c; }
+
+.red-body h3 {
+  text-align: center;
+  margin: 0 1em;
+  color: #ffffff;
+  font-size: 20px;
+  line-height: 24px; }
+
 .footer {
   background: #4a4f55; }
 
